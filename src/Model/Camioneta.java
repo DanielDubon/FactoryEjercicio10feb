@@ -1,6 +1,6 @@
 package Model;
 
-public class Camioneta extends Auto {
+public class Camioneta extends Auto { //se aplica herencia, heredando el metodo velocidad
 
     @Override
     public void velocidad(){

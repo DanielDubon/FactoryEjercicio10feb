@@ -1,6 +1,6 @@
 package Model;
 
-public class AutoInstanceCreator implements AutoFactory {
+public class AutoInstanceCreator implements AutoFactory { //Se aplica la dependencia ya que depende de la interfaz para obtener el metodo getAuto
 
 
         @Override
