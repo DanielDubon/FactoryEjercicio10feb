@@ -4,7 +4,7 @@ public class Camioneta extends Auto { //se aplica herencia, heredando el metodo 
 
     @Override
     public void velocidad(){
-        System.out.println("Mi velocidad es de 100km/h");
+        System.out.println("Mi velocidad es de 170km/h");
 
 
     }
